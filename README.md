@@ -6,7 +6,7 @@ A stop word is a commonly used word (such as “the”, “a”, “an”, “in
 *  from nltk.corpus import stopwords
 *  print(stopwords.words('english'))
 
-# word_tokenize()
+# **word_tokenize()**
 With the help of nltk.tokenize.word_tokenize() method, we are able to extract the tokens(part of letters e.g- "Iamaman"->"I" "am" "man") from string of characters by using tokenize.word_tokenize() method. It actually returns the syllables from a single word. A single word can contain one or two syllables.
 
 # Tokenize 
